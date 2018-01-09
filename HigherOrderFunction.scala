@@ -1,0 +1,2 @@
+object HigherOrderFunction{       def main(args: Array[String]) {              /**        * Higher order functions take other functions as parameters or return a function as a result.        * This is possible because functions are first-class values in Scala.        * One of the most common examples is the higher-order function map which is available for collections in Scala.        **/            doubleTheCollectionExample()   }
+  }  }  }  }  }  }  }  }  }  }  }  }  }  }  }
